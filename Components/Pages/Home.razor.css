@@ -1,0 +1,29 @@
+  b {
+    color: rgb(228, 86, 110);
+  }
+
+  hr {
+    border: solid 2px rgb(255, 107, 107);
+  }
+
+  img {
+    width: 50px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  span {
+    color: rgb(255, 32, 99);
+        font-size: x-large;
+  }
+
+  b{
+    font-size: larger;
+    text-align: center;
+  }
+
+  h1{
+        font-family: cursive;
+  }
